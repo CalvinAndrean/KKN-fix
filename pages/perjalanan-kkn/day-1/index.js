@@ -14,7 +14,7 @@ import {
 } from "../../../sections";
 
 const Home1 = () => (
-  <div className="bg-primary-black overflow-hidden  min-h-screen">
+  <div className="bg-primary-black overflow-hidden flex flex-col min-h-screen">
     <Navbar title={"KKN Hari Pertama"} />
     <Day1 />
   </div>
