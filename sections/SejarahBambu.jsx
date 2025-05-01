@@ -11,7 +11,7 @@ export default function ActionAreaCard() {
       <div className="flex justify-center mt-[64px] mb-[284px]">
         <div
           href="#"
-          className="max-w-[1200px] flex items-center bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
+          className="max-w-[1200px] flex items-center bg-primary-black border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
         >
           <img
             class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"

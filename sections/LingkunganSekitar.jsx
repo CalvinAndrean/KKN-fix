@@ -11,7 +11,7 @@ export default function ActionAreaCard() {
       <div className="flex justify-center mt-[64px] mb-[128px]">
         <div
           href="#"
-          className="max-md:flex-col gap-6 justify-center max-w-[1400px] flex items-center bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
+          className="max-md:flex-col gap-6 justify-center max-w-[1400px] flex items-center bg-primary-black border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
         >
           <div className="flex max-xl:flex-col  gap-6">
             <div className="flex flex-col items-center">
@@ -59,7 +59,7 @@ export default function ActionAreaCard() {
       <div className="flex justify-center mt-[64px] mb-[128px]">
         <div
           href="#"
-          className="max-md:flex-col gap-6 justify-center max-w-[1400px] flex items-center bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
+          className="max-md:flex-col gap-6 justify-center max-w-[1400px] flex items-center bg-primary-black border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
         >
           <div className="flex max-xl:flex-col gap-6">
             <div className="flex flex-col items-center">
@@ -109,7 +109,7 @@ export default function ActionAreaCard() {
       <div className="flex justify-center mt-[64px] mb-[128px]">
         <div
           href="#"
-          className="max-md:flex-col gap-6 justify-center max-w-[1400px] flex items-center bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
+          className="max-md:flex-col gap-6 justify-center max-w-[1400px] flex items-center bg-primary-black border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
         >
           <div className="flex max-xl:flex-col gap-6">
             <div className="flex flex-col items-center">
@@ -161,7 +161,7 @@ export default function ActionAreaCard() {
       <div className="flex justify-center mt-[64px] mb-[128px]">
         <div
           href="#"
-          className="max-md:flex-col gap-6 justify-center max-w-[1400px] flex items-center bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
+          className="max-md:flex-col gap-6 justify-center max-w-[1400px] flex items-center bg-primary-black border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
         >
           <div className="flex max-xl:flex-col gap-6">
             <div className="flex flex-col items-center">

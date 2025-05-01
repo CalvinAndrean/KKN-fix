@@ -1,10 +1,10 @@
-'use client';
+"use client";
 
-import { motion } from 'framer-motion';
-import { socials } from '../constants';
+import { motion } from "framer-motion";
+import { socials } from "../constants";
 
-import styles from '../styles';
-import { footerVariants } from '../utils/motion';
+import styles from "../styles";
+import { footerVariants } from "../utils/motion";
 
 const Footer = () => (
   <motion.footer
@@ -32,7 +32,7 @@ const Footer = () => (
       </div>
 
       <div className="flex flex-col">
-        <div className="mb-[50px] h-[2px] bg-white opacity-10" />
+        <div className="mb-[50px] h-[2px] bg-primary-black opacity-10" />
 
         <div className="flex items-center justify-between flex-wrap gap-4">
           <h4 className="font-extrabold sm:text-[18px] text-[24px] text-white">
