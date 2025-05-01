@@ -1,15 +1,15 @@
-'use client';
+"use client";
 
-import { useState } from 'react';
-import { motion } from 'framer-motion';
-import Link from 'next/link';
-import styles from '../styles';
-import { exploreWorlds } from '../constants';
-import { staggerContainer } from '../utils/motion';
-import { ExploreCard, TitleText, TypingText } from '../components';
+import { useState } from "react";
+import { motion } from "framer-motion";
+import Link from "next/link";
+import styles from "../styles";
+import { exploreWorlds } from "../constants";
+import { staggerContainer } from "../utils/motion";
+import { ExploreCard, TitleText, TypingText } from "../components";
 
 const Explore = () => {
-  const [active, setActive] = useState('world-2');
+  const [active, setActive] = useState("world-2");
 
   return (
     <section className={`${styles.paddings}`} id="explore">
@@ -22,7 +22,12 @@ const Explore = () => {
       >
         <TypingText title="| Kenal lebih" textStyles="text-center" />
         <TitleText
-          title={<>Kenalan lebih dalam dengan <br className="md:block hidden" /> Pringgading.</>}
+          title={
+            <>
+              Kenalan lebih dalam dengan <br className="md:block hidden" />{" "}
+              Pringgading.
+            </>
+          }
           textStyles="text-center"
         />
         <div className="mt-[50px] flex lg:flex-row flex-col min-h-[70vh] gap-5">
