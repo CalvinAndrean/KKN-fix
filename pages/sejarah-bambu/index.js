@@ -23,7 +23,7 @@ const Home1 = () => (
         padding: 0;
       }
     `}</style>
-    <div className="bg-primary-black overflow-hidden min-h-screen">
+    <div className="bg-primary-black overflow-hidden flex flex-col min-h-screen">
       <Navbar title={"Sejarah Bambu Pringgading"} />
       <SejarahBambu />
     </div>
