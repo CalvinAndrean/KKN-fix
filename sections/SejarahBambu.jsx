@@ -15,12 +15,12 @@ export default function SejarahBambu() {
             Asal Usul Pring Gading
           </h5>
           <p className="mb-3 font-normal text-gray-400">
-            Bambu Pring Gading merupakan bambu kuning yang sering kita temui di
-            hutan atau pinggir jalan pedesaan. Pada Dusun Pringgading, Pring
-            Gading dipilih menjadi salah satu ikon dusun ini dimana sejarahnya
-            adalah dahulu ada tokoh yang membawa bambu ini dan menanam nya di
-            sebagian besar lahan yang ada di dusun ini sehingga dusun ini
-            dikenal dengan Dusun Pringgading.
+            Bambu Pring Gading adalah jenis bambu kuning yang sering ditemui di
+            hutan atau pinggir jalan pedesaan. Di Dusun Pringgading, bambu ini
+            dipilih sebagai salah satu ikon dusun berdasarkan sejarahnya. Dahulu
+            kala, seorang tokoh membawa bambu ini dan menanamnya di sebagian
+            besar lahan di dusun sehingga dusun ini dikenal sebagai Dusun
+            Pringgading.
           </p>
         </div>
       </div>

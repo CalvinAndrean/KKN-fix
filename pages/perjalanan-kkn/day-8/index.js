@@ -15,7 +15,12 @@ import {
 
 const Home1 = () => (
   <div className="bg-primary-black overflow-hidden min-h-screen">
-    <Navbar title={"KKN Hari Kedelapan"} />
+    <Navbar
+      title={"KKN Hari Kedelapan"}
+      canGoBack={true}
+      backTitle={"Kembali ke Timeline"}
+      url={"/perjalanan-kkn"}
+    />
     <Day8 />
   </div>
 );

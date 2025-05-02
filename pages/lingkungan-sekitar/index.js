@@ -15,7 +15,12 @@ import {
 
 const Home1 = () => (
   <div className="bg-primary-black overflow-hidden">
-    <Navbar title={"Lingkungan Sekitar Padukuhan"} />
+    <Navbar
+      title={"Lingkungan Sekitar Padukuhan"}
+      canGoBack={true}
+      backTitle={"Kembali ke Beranda"}
+      url={"/"}
+    />
     <LingkunganSekitar />
   </div>
 );
