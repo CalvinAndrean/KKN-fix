@@ -19,7 +19,7 @@ export default function ActionAreaCard() {
             alt=""
           />
           <div class="flex flex-col justify-between p-4 leading-normal">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">
               Senam Sehat
             </h5>
             <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
@@ -50,7 +50,7 @@ export default function ActionAreaCard() {
             alt=""
           />
           {/* <div class="flex flex-col justify-between p-4 leading-normal">
-              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Kerja Bakti Merti Dusun</h5>
+              <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">Kerja Bakti Merti Dusun</h5>
               <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
                 Merti Dusun merupakan acara untuk memperingati hari ulang tahun dusun dimana selalu dilaksanakan setiap tahunnya.
                 Untuk mempersiapkan acara merti dusun, dilaksanakan kerja bakti setiap hari minggu bertempat di lahan belakang rumah Wakil Bupati Bantul.</p>

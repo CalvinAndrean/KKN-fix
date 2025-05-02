@@ -19,7 +19,7 @@ export default function ActionAreaCard() {
             alt=""
           />
           <div class="flex flex-col justify-between p-4 leading-normal">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">
               Pemasangan Plang Ketua RT.01 - RT.09
             </h5>
             <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
@@ -48,7 +48,7 @@ export default function ActionAreaCard() {
             alt=""
           />
           <div class="flex flex-col justify-between p-4 leading-normal">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">
               Sarinah Tani bersama KWT
             </h5>
             <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
