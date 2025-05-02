@@ -22,7 +22,7 @@ export default function ActionAreaCard() {
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">
               Posyandu Balita
             </h5>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+            <p class="mb-3 font-normal text-gray-400">
               Posyandu Balita ini dilaksanakan setiap bulannya yang bertempat di
               Posyandu Dahlia 1, Dahlia 2, dan Dahlia 3. Disela-sela waktu KKN,
               kami menyempatkan untuk membantu ibu-ibu untuk ikut mendata pada
@@ -46,7 +46,7 @@ export default function ActionAreaCard() {
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">
               Program Kerja Pengolahan Sampah
             </h5>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+            <p class="mb-3 font-normal text-gray-400">
               Pada pengolahan sampah ini kami memberikan sosialisasi mengenai
               pentingnya kebersihan karena sampah, pembuatan pupuk cair
               menggunakan sampah organik, dan pengenalan maggot untuk mengurai

@@ -22,7 +22,7 @@ export default function ActionAreaCard() {
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">
               Persiapan acara karang taruna (SARAKATA)
             </h5>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+            <p class="mb-3 font-normal text-gray-400">
               Hari keempat ini kami diminta untuk membantu persiapan acara
               SARAKATA yang bertempat di GOR Kalurahan Guwosari. Tiap-tiap
               kelompok pada Unit B mengirimkan perwakilan sebanyak 4 orang untuk
@@ -47,7 +47,7 @@ export default function ActionAreaCard() {
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">
               Menghadiri acara SARAKATA
             </h5>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+            <p class="mb-3 font-normal text-gray-400">
               Hari ketiga kami dimulai dengan pelaksanaan program kerja Inovasi
               Dusun yakni Pemasangan Plang pada tiap-tiap rumah Ketua RT.01 -
               RT.09. Mengingat motor yang boleh kami bawa hanya 3 saja, maka

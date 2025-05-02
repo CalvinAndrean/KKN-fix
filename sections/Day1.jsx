@@ -22,7 +22,7 @@ export default function ActionAreaCard() {
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">
               Penerjunan KKN 83 UAJY Pringgading
             </h5>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+            <p class="mb-3 font-normal text-gray-400">
               KKN 83 UAJY Pringgading diterjunkan tanggal 4 Juli 2023 dengan
               titik kumpul di Kampus 3 Bonaventura, Universitas Atma Jaya
               Yogyakarta. Kami beranggotakan 10 orang yakni dari yang paling
@@ -48,7 +48,7 @@ export default function ActionAreaCard() {
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">
               Penyambutan oleh Kapanewon Pajangan
             </h5>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+            <p class="mb-3 font-normal text-gray-400">
               Sebelum memulai pelaksaan program kerja, kami disambut oleh Wakil
               Kapanewon Pajangan, Lurah, dan Polsek Bantul disertai dengan
               himbauan-himbauan dalam melakukan kegiatan sehari-hari di

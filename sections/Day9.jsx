@@ -18,7 +18,7 @@ export default function ActionAreaCard() {
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">
               Free Day
             </h5>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+            <p class="mb-3 font-normal text-gray-400">
               Pada hari ini kami tidak melaksanakan proker sama sekali sehingga
               kami berencana untuk mengisi hari dengan bermain tenis meja dan
               berbersih posko. Dapat dilihat pada foto dibawah dimana Bang
@@ -52,7 +52,7 @@ export default function ActionAreaCard() {
           />
           {/* <div class="flex flex-col justify-between p-4 leading-normal">
               <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">Kerja Bakti Merti Dusun</h5>
-              <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+              <p class="mb-3 font-normal text-gray-400">
                 Merti Dusun merupakan acara untuk memperingati hari ulang tahun dusun dimana selalu dilaksanakan setiap tahunnya.
                 Untuk mempersiapkan acara merti dusun, dilaksanakan kerja bakti setiap hari minggu bertempat di lahan belakang rumah Wakil Bupati Bantul.</p>
           </div> */}
